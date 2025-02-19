@@ -9,7 +9,7 @@ Files
 - train.csv - the training set
 - test.csv - the test set
 - sample_submission.csv - a sample submission file in the correct format
-  <br>
+  <br>  <br>
 **Input variables:**
 1. last contact date: last contact date
 2. age (numeric)
