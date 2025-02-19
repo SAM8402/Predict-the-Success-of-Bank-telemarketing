@@ -1,14 +1,15 @@
 # Predict-the-Success-of-Bank-telemarketing
 My IITM MLP project focuses on predicting the success of bank telemarketing.
-
+  <br>
 
 **Dataset Description**
 The data is related with direct marketing campaigns of a banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
-
+  <br>
 Files
 - train.csv - the training set
 - test.csv - the test set
-- sample_submission.csv - a sample submission file in the correct format\n
+- sample_submission.csv - a sample submission file in the correct format
+  <br>
 **Input variables:**
 1. last contact date: last contact date
 2. age (numeric)
@@ -26,7 +27,7 @@ Files
 14. previous: number of contacts performed before this campaign and for this client (numeric)
 15. poutcome: outcome of the previous marketing campaign (categorical: "unknown","other","failure","success")
 
-**Output variable (desired target):**
+**Output variable (desired target):**  <br>
 16. target: has the client subscribed a term deposit? (binary: "yes","no")
 
 
