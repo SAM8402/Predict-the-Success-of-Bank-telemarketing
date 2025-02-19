@@ -8,7 +8,7 @@ The data is related with direct marketing campaigns of a banking institution. Th
 Files
 - train.csv - the training set
 - test.csv - the test set
-- sample_submission.csv - a sample submission file in the correct format
+- sample_submission.csv - a sample submission file in the correct format\n
 **Input variables:**
 1. last contact date: last contact date
 2. age (numeric)
